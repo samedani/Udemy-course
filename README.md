@@ -28,6 +28,9 @@ This repository contains projects created using Python's **Turtle graphics libra
      - The Turtle's movement is controlled with keyboard inputs (e.g., arrow keys).
      - The game can include additional functionality like changing colors, erasing, or drawing specific shapes.
    - **Technologies Used**: Python, Turtle
+### 4. **Turtle Race**
+   - **Description**: This project is an interactive drawing game where the user take a guess at the turtle he thinks will be first in a race. Five turtles race.
+   - **Technologies Used**: Python, Turtle
 
 ## Getting Started
 
