@@ -49,9 +49,7 @@ To run the projects on your local machine, follow these steps:
 
 If you'd like to contribute to this repository or suggest improvements, feel free to create a pull request. All contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
